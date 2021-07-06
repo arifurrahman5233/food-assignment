@@ -12,14 +12,14 @@ body{
 #image-style{    
   margin-left: 25%;
   padding-right: 5%;
+  
     
 }
 
 #text-style{
-    
     padding-top: 10%;
     padding-left: 5%;
-
+   font-size: 17px;
 }
 
 #About{
@@ -31,7 +31,7 @@ body{
     color: black;
     text-decoration: none;
     font-weight: 700;
-    background-image: linear-gradient(tomato , orange);
+    background-image: linear-gradient(tomato , purple);
     border-radius: 30px;
     padding: 10px;
     transition: 0.4s;    
