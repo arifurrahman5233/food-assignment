@@ -35,16 +35,16 @@ body{
 .second-bar{
     display: flex;
     background-image: url(image/bg-1.png);
-    height: 600px;
-    width: 1440px;
-    
 }
 #second-image{
- 
+    height: 450px;
+    width: 1440px;
+    background: url(image/happyman.png);
+    background-repeat: no-repeat;
+          
 }
+.recipie{
+    text-align: center;
     
-   
-   
     
-   
-    
+}
