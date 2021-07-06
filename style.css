@@ -1,0 +1,50 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.firstbar{
+    display: flex;
+    
+}
+#image-style{
+    
+  margin-left: 25%;
+  padding-right: 5%;
+ 
+   
+}
+#text-style{
+    padding-top: 10%;
+    padding-left: 5%;
+
+}
+#button{
+    color: black;
+    text-decoration: none;
+    font-weight: 700;
+    background-image: linear-gradient(tomato , orange);
+    border-radius: 30px;
+    padding: 10px;
+    transition: 0.4s;
+    
+}
+#button:hover{
+    color: white;
+}
+
+.second-bar{
+    display: flex;
+    background-image: url(image/bg-1.png);
+    height: 600px;
+    width: 1440px;
+    
+}
+#second-image{
+ 
+}
+    
+   
+   
+    
+   
+    
